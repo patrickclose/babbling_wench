@@ -1,0 +1,21 @@
+{
+    "rewrites": [
+      {
+        "source": "/aesthetics",
+        "destination": "/aesthetics/index.html"
+      },
+      {
+        "source": "/garbage",
+        "destination": "/garbage/index.html"
+      },
+      {
+        "source": "/lifestyle",
+        "destination": "/lifestyle/index.html"
+      },
+      {
+        "source": "/whatever",
+        "destination": "/whatever/index.html"
+      }
+    ]
+  }
+  
