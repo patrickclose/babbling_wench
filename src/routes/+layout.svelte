@@ -49,6 +49,13 @@
         padding: 1em;
     }
 
+    /* Small screens */
+    @media only screen and (max-width: 600px) {
+        :global(.main-container) {
+            margin-left: 0em;
+        }
+    }
+
     
     :global(.navbar) {
         position: fixed;
